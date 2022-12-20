@@ -4,5 +4,6 @@ juan danilo chamorro Perez tiene 15 y nacio en arjona,bolivar, colombia
 
 Hoy hablaremos de sus aficiones
 
--programacion
--videojuegos
+-programacion.
+-videojuegos.
+-mide 1.70 aproximadamente.
