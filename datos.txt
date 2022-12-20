@@ -7,3 +7,8 @@ Hoy hablaremos de sus aficiones
 -programacion.
 -videojuegos.
 -mide 1.70 aproximadamente.
+
+hoy hablaremos de lo que a echo el señor juan danilo:
+-aprendio c++
+-aprendio c#
+-git
