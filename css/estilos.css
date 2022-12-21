@@ -1,8 +1,18 @@
 body{
-text-align: center;
 font-family: "Arial";
 background-color: antiquewhite;
 }
+
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+p{
+    color:brown ;
+    font-size: 20px;
+}
+
 table, th, td{
     text-align: center;
     border: 1px solid;
@@ -14,6 +24,7 @@ th{
     width: 50px;
     background-color: goldenrod;
     color: brown;
+    
 }
 
 td{
