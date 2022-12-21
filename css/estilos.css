@@ -3,3 +3,22 @@ text-align: center;
 font-family: "Arial";
 background-color: antiquewhite;
 }
+table, th, td{
+    text-align: center;
+    border: 1px solid;
+    border-color: royalblue;
+}
+
+th{
+    height: 20px;
+    width: 50px;
+    background-color: goldenrod;
+    color: brown;
+}
+
+td{
+    text-align: center;
+    vertical-align:auto;
+}
+
+
