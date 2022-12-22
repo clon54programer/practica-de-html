@@ -44,3 +44,9 @@ h2{
     box-shadow:0 1px 20px 0 rgba(0, 0, 0, 0.5) ;
     font-size: 25px;
 }
+
+.div-img{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
