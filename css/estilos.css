@@ -37,3 +37,10 @@ td{
     padding: 14px;
     background-color: cadetblue;
 }
+
+h2{
+    color:palevioletred;
+    text-align: center;
+    box-shadow:0 1px 20px 0 rgba(0, 0, 0, 0.5) ;
+    font-size: 25px;
+}
