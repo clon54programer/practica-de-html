@@ -12,3 +12,5 @@ hoy hablaremos de lo que a echo el señor juan danilo:
 -aprendio c++
 -aprendio c#
 -git
+-Python
+-php
