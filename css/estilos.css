@@ -47,5 +47,11 @@ h2{
 
 #Codigo{
     background-color: aliceblue;
-    
+    padding: 1%;
+    border: 1px solid;
+    border-color: black;
+}
+.div-img1{
+    display: flex;
+    justify-content: center;
 }
