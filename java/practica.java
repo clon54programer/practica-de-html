@@ -11,10 +11,10 @@ public class practica{
 //logica del programa
 
     if(name <= 1.65f){
-        System.out.println(Cliente+"perdon pero no puede pasar por que no tiene 1.70 para pasar a la atracion");
+        System.out.println(Cliente+" perdon pero no puede pasar por que no tiene 1.70 para pasar a la atracion");
     }
     else{
-         System.out.println(Cliente+"ya puede pasar señor juan danilo");
+         System.out.println(Cliente+" ya puede pasar señor juan danilo");
     }
     
     }
