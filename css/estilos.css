@@ -45,18 +45,21 @@ h2{
     font-size: 25px;
 }
 
+
 .div-img{
     display: flex;
     justify-content: center;
     text-align: center;
 }
 
-
-
-
-
-
-
-
-
+#Codigo{
+    background-color: aliceblue;
+    padding: 1%;
+    border: 1px solid;
+    border-color: black;
+}
+.div-img1{
+    display: flex;
+    justify-content: center;
+}
 
