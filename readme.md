@@ -29,8 +29,5 @@ git merge "nombre_de_la_rama
 
 <code>
 
->creador del este proyecto Clon54programer
-
-
-repositorio de Github
-<https://github.com/clon54programer/>
+## desarrollador
+[Clon54programer](github.com/clon54programer)
