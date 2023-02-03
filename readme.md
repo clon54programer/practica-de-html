@@ -27,7 +27,13 @@ git checkout "nombre de la rama"(te mueves entre las ramas existentes)
 git merge "nombre_de_la_rama
 ```
 
+## **Cómo generar tus llaves SSH**
+1. Generar tus llaves SSH**
+Recuerda que es muy buena idea proteger tu llave privada con una contraseña.
 
+```
+ssh-keygen -t rsa -b 4096 -C "tu@email.com"
+```
 
 ## desarrollador
 [Clon54programer](github.com/clon54programer)
