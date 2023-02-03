@@ -35,5 +35,24 @@ Recuerda que es muy buena idea proteger tu llave privada con una contraseña.
 ssh-keygen -t rsa -b 4096 -C "tu@email.com"
 ```
 
+## nuevos comandos
+```git
+git log --all --graph --decorate --oneline
+```
+este sirve para ver el recorrido de tu repositorio
+
+## **tags**
+Los tags o etiquetas nos permiten asignar versiones a los commits con cambios más importantes o significativos de nuestro proyecto.
+
+## Comandos para trabajar con etiquetas:
+```
+Crear un nuevo tag y asignarlo a un commit: git tag -a nombre-del-tag id-del-commit.
+
+Borrar un tag en el repositorio local: git tag -d nombre-del-tag.
+
+Listar los tags de nuestro repositorio local: git tag o git show-ref --tags.
+
+Publicar un tag en el repositorio remoto: git push origin --tags.
+```
 ## desarrollador
 [Clon54programer](github.com/clon54programer)
