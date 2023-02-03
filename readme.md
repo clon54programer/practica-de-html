@@ -54,5 +54,16 @@ Listar los tags de nuestro repositorio local: git tag o git show-ref --tags.
 
 Publicar un tag en el repositorio remoto: git push origin --tags.
 ```
+## **Comandos para manejo de ramas en GitHub**
+```
+Crear una rama: git branch 
+
+Movernos a otra rama: git checkout branchName
+
+Crear una rama en el repositorio local: git branch nombre-de-la-rama o git checkout -b nombre-de-la-rama.
+
+Publicar una rama local al repositorio remoto:git push origin nombre-de-la-rama.
+```
+
 ## desarrollador
 [Clon54programer](github.com/clon54programer)
