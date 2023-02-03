@@ -11,7 +11,7 @@ En este pequeño proyecto aprende usar git con archivos de html, css y java.
 - aprender un poco de html.
   
 ## comandos basicos
-<code>
+```git
 git init(crea un repositorio de git)
 
 git add (agrega una archivo al repositorio de git)
@@ -25,9 +25,9 @@ git branch nombre_de_la_rama(crea una rama nueva)
 git checkout "nombre de la rama"(te mueves entre las ramas existentes)
 
 git merge "nombre_de_la_rama
+```
 
 
-<code>
 
 ## desarrollador
 [Clon54programer](github.com/clon54programer)
